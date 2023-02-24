@@ -1,0 +1,20 @@
+Pacote - Z_AGRUP_FATURAS_FIORI
+tabelas:
+	ZB_ACDOCA_RM
+	ZB_AGP_FATURA
+	ZB_BKPF_RM
+	ZB_BSID_RM
+	metadata:
+		ZE_AGP_FATURA_EXT
+
+Module name: projectapp_agrup_faturas1
+Application title: App Agrupamento de Faturas 
+Application namespace: itsgrp
+Description: Agrupamento de Faturas 
+
+Deply configuration:
+Please choose the target: ABAP
+Name (Maximum length: 15 characters): app_agrup_fatur
+Deployment Description: Aplicativo agrupamento de faturas
+
+
